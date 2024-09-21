@@ -13,7 +13,7 @@ if __name__ == '__main__':
     rospy.init_node('subscriber_node')
 
     # subscriber subscribe to topic
-    topic_name = '/hello/uclamobility'
+    topic_name = '/hello/um-dearborn-aeng563'
     # data_class: String
     # callback function to get data
     subscriber = rospy.Subscriber(topic_name, String, topic_callback)
