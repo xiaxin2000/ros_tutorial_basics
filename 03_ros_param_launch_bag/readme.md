@@ -24,7 +24,7 @@ roslaunch 03_ros_param_launch_bag demo10.launch
 
 Download the example bags from: 
 
-[https://drive.google.com/drive/folders/1T9Kuong6kwf5c3I6yxSE8GP2JfGTGSB7?usp=sharing](https://drive.google.com/drive/folders/1T9Kuong6kwf5c3I6yxSE8GP2JfGTGSB7?usp=sharing)
+[https://drive.google.com/drive/folders/1T9Kuong6kwf5c3I6yxSE8GP2JfGTGSB7?usp=sharing](https://drive.google.com/file/d/1juysDU2ldMHLG2FtTtTQufoP5cXC6oOB/view?usp=sharing)
 
 ```
 # Check the rosbag info 

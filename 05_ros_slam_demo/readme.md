@@ -5,18 +5,16 @@ In this demo, you can try the SLAM algorithm by yourself using the [TurtleBot](h
 ## 1 Install TurtleBot3
 
 ```
-sudo apt-get install ros-melodic-turtlebot3-*
-# 安装地图算法依赖
-apt-get install ros-melodic-gmapping 
-# 安装dwa路径规划算法
-apt-get install ros-melodic-dwa-local-planner 
+sudo apt-get install ros-noetic-turtlebot3-*
+apt-get install ros-noetic-gmapping 
+apt-get install ros-noetic-dwa-local-planner 
 
 
-sudo apt-get install ros-melodic-turtlebot3-*
+sudo apt-get install ros-noetic-turtlebot3-*
 # Install mapping algorithm dependency
-apt-get install ros-melodic-gmapping 
+apt-get install ros-noetic-gmapping 
 # Install dwa path planning algorithm 
-apt-get install ros-melodic-dwa-local-planner 
+apt-get install ros-noetic-dwa-local-planner 
 ```
 
 ## 2 Control TurtleBot
@@ -24,8 +22,8 @@ apt-get install ros-melodic-dwa-local-planner
 You need to install some dependency first:
 
 ```
-sudo apt-get install ros-melodic-gazebo-ros-pkgs ros-melodic-gazebo-ros-control
-sudo apt-get install ros-melodic-teleop-twist-keyboard 
+sudo apt-get install ros-noetic-gazebo-ros-pkgs ros-noetic-gazebo-ros-control
+sudo apt-get install ros-noetic-teleop-twist-keyboard 
 ```
 
 Then we need to activate turtleBot in the simulation environment:
